@@ -2,9 +2,7 @@
 
 **Cluster Representative**:	Jacqui Ramagge
 
-TOPIC FOR REPORTING THIS QUARTER
-
-*Early Career activities*
+TOPIC FOR REPORTING THIS QUARTER: *Early Career activities*
 
 *
 
