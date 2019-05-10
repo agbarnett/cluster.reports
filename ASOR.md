@@ -14,7 +14,7 @@ TOPIC FOR REPORTING THIS QUARTER: *Early Career activities*
 
 * 
 
-*(Cluster representative to choose 2 nominated topics of interest to the cluster to report on)*
+*Cluster representative to choose 2 nominated topics of interest to the cluster to report on*
 
 *Cluster-nominated topic #1*
 
