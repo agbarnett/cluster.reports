@@ -4,17 +4,17 @@
 
 TOPIC FOR REPORTING THIS QUARTER: *Early Career activities*
 
-*
-
-*Key issues for Board discussion*
+*Key issues for Board discussion (can be any topic)*
 
 *
 
 *Key issues for noting only (will be taken as read)*
 
-*
+* _Report on quarterly topic (Early Career activities) here_ 
 
-*(Cluster representative to choose 2 nominated topics of interest to the cluster to report on)*
+* 
+
+*Cluster representative to choose 2 nominated topics of interest to the cluster to report on*
 
 *Cluster-nominated topic #1*
 
