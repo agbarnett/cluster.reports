@@ -1,28 +1,40 @@
 **Society**: Statistical Society of Australia
 
-**Representative**:	Prof. Adrian Barnett
+**Representative**:	Adrian Barnett
 
-**Key issues for Board discussion**
+TOPIC FOR REPORTING THIS QUARTER: *Early Career activities*
 
-None
+*Key issues for Board discussion (covering any topic)*
 
-**Key issues for noting only (will be taken as read)**
+*
 
-*	We are about to make multiple changes to our rules and regulations to clarify what we regard as acceptable behaviour. This includes setting up a Member Conduct Committee of three to six members who will be responsible for administering the Code of Conduct, handling reports of violations, and managing the review of any reported conduct and recommended actions
+*Key issues for noting only (will be taken as read)*
 
-*	We are still investigating getting deductible gift recipient (DGR) status so that we can accept tax-free donations to spend on student travel awards.
+* **ECR activity**: Our Young Statisticians Conference 2019 will take place on 1 to 2 October 2019 in Canberra. The conference is sponsored by AMSI and the ABS. It looks likely to be a great conference and has a [video competition](https://form.jotform.co/82995720203862). All four keynote speakers are women and the conference dinner will celebrate women in statistics.
 
-*	We have signed a one-year strategic partnership with the Australian Bureau of Statistics and are looking to run many joint events in 2019.
+* In exciting news, a collaborative bid for Australia (Sydney) to host the [International Congress on Mathematical Education in 2024](https://www.mathunion.org/icmi/conferences/icme/bidding-icme-15) has been successful.
 
-**ECR Activities**
+* The Biostatistics Collaboration of Australia won our inaugral [president's award for leadership in statistics](https://www.statsoc.org.au/News-and-media-releases/7215657).
 
-*	Our Young Statisticians Conference 2019 will take place on 1 to 2 October 2019 in Canberra. The conference is sponsored by AMSI and the ABS.
+*	In welcome news, "Statistician" has been [added to the government's skilled migration list](https://www.sbs.com.au/yourlanguage/punjabi/en/article/2019/03/11/your-chance-migrate-australia-new-skilled-occupation-lists-announced)
 
-**Engagement with the region - Asia Pacific**
+*Cluster representative to choose two nominated topics of interest to the cluster to report on*
 
-*	We have floated the idea with the New Zealand Statistical Association of holding a joint conference in 2022.
+*Cluster-nominated topic #1*
 
-**Indigenous Engagement**
+*	**Engagement with the region - Asia Pacific** We are considering the idea of having our 2022 conference in Darwin, and this would be a great opportunity to engage with Statistical agencies in the Asian region.
+
+*Cluster-nominated topic #2*
+
+*	
+
+*Equity, Diversity, and Inclusion*
+
+* [Please outline up to three points regarding your cluster’s efforts to improve equity, diversity and inclusion].
+
+* We are continuing to progress the updates to our rules, regulations and code of conduct to make the society a more welcoming and safe place for all. Changes to the code of conduct and regulations will hopefully be approved by the next Central Council meeting.
+
+
 
 None. 
 
