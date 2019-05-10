@@ -11,3 +11,4 @@ A place for the five societies in Mathematical Sciences to report on their activ
 
 * Australian Society for Operations Research (ASOR)
 
+The next set of reports are due on Tuesday 4 June 2019.
