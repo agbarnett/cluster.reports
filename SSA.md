@@ -6,11 +6,11 @@ TOPIC FOR REPORTING THIS QUARTER: *Early Career activities*
 
 *Key issues for Board discussion (covering any topic)*
 
-*
+* _None_
 
 *Key issues for noting only (will be taken as read)*
 
-* **ECR activity**: Our Young Statisticians Conference 2019 will take place on 1 to 2 October 2019 in Canberra. The conference is sponsored by AMSI and the ABS. It looks likely to be a great conference and has a [video competition](https://form.jotform.co/82995720203862). All four keynote speakers are women and the conference dinner will celebrate women in statistics.
+* **ECR activity**: Our Young Statisticians Conference 2019 will be on 1 to 2 October 2019 in Canberra. The conference is sponsored by AMSI and the ABS. It looks likely to be a great conference and has a [video competition](https://form.jotform.co/82995720203862). All four keynote speakers are women and the conference dinner will celebrate women in statistics.
 
 * In exciting news, a collaborative bid for Australia (Sydney) to host the [International Congress on Mathematical Education in 2024](https://www.mathunion.org/icmi/conferences/icme/bidding-icme-15) has been successful.
 
@@ -33,8 +33,4 @@ TOPIC FOR REPORTING THIS QUARTER: *Early Career activities*
 * [Please outline up to three points regarding your cluster’s efforts to improve equity, diversity and inclusion].
 
 * We are continuing to progress the updates to our rules, regulations and code of conduct to make the society a more welcoming and safe place for all. Changes to the code of conduct and regulations will hopefully be approved by the next Central Council meeting.
-
-
-
-None. 
 
