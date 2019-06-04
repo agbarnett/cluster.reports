@@ -14,7 +14,7 @@ TOPIC FOR REPORTING THIS QUARTER: *Early Career activities*
 
 * In exciting news, a collaborative bid for Australia (Sydney) to host the [International Congress on Mathematical Education in 2024](https://www.mathunion.org/icmi/conferences/icme/bidding-icme-15) has been successful.
 
-* The Biostatistics Collaboration of Australia won our inaugral [president's award for leadership in statistics](https://www.statsoc.org.au/News-and-media-releases/7215657).
+* The Biostatistics Collaboration of Australia won our inaugural [president's award for leadership in statistics](https://www.statsoc.org.au/News-and-media-releases/7215657).
 
 *	In welcome news, "Statistician" has been [added to the government's skilled migration list](https://www.sbs.com.au/yourlanguage/punjabi/en/article/2019/03/11/your-chance-migrate-australia-new-skilled-occupation-lists-announced)
 
@@ -22,7 +22,7 @@ TOPIC FOR REPORTING THIS QUARTER: *Early Career activities*
 
 *Cluster-nominated topic #1*
 
-*	**Engagement with the region - Asia Pacific** We are considering the idea of having our 2022 conference in Darwin, and this would be a great opportunity to engage with Statistical agencies in the Asian region.
+*	**Engagement with the region - Asia Pacific**. We are considering the idea of having our 2022 conference in Darwin, and this would be a great opportunity to engage with Statistical agencies in the Asian region.
 
 *Cluster-nominated topic #2*
 
