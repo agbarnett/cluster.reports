@@ -2,7 +2,7 @@
 
 **Cluster Representative**:	Tim Brown
 
-TOPIC FOR REPORTING THIS QUARTER: *Early Career activities*
+TOPIC FOR REPORTING THIS QUARTER: *STEM policy priorities*
 
 *Key issues for Board discussion (covering any topic)*
 
@@ -11,7 +11,7 @@ TOPIC FOR REPORTING THIS QUARTER: *Early Career activities*
 
 *Key issues for noting only (will be taken as read)*
 
-* _Report on quarterly topic (Early Career activities) here_
+* _Report on quarterly topic (STEM policy priorities) here_
 
 * 
 
