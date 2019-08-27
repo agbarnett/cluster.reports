@@ -1,5 +1,5 @@
 # Cluster reports
-A place for the five societies in Mathematical Sciences to report on their activities for Science and Technology Australia
+A place for the six societies in Mathematical Sciences to report on their activities for Science and Technology Australia
 
 * Mathematics Education Research Group of Australasia (MERGA)
 
@@ -11,4 +11,6 @@ A place for the five societies in Mathematical Sciences to report on their activ
 
 * Australian Society for Operations Research (ASOR)
 
-The next set of reports are due on Tuesday 4 June 2019.
+* Aboriginal and Torres Strait Islander Mathematics Alliance (ATSIMA)
+
+The next set of reports are due on Tuesday 24 September 2019.
