@@ -2,7 +2,7 @@
 
 **Representative**:	Adrian Barnett
 
-TOPIC FOR REPORTING THIS QUARTER: *Early Career activities*
+TOPIC FOR REPORTING THIS QUARTER (September 2019): *STEM policy priorities*
 
 *Key issues for Board discussion (covering any topic)*
 
@@ -10,19 +10,15 @@ TOPIC FOR REPORTING THIS QUARTER: *Early Career activities*
 
 *Key issues for noting only (will be taken as read)*
 
-* **ECR activity**: Our Young Statisticians Conference 2019 will be on 1 to 2 October 2019 in Canberra. The conference is sponsored by AMSI and the ABS. It looks likely to be a great conference and has a [video competition](https://form.jotform.co/82995720203862). All four keynote speakers are women and the conference dinner will celebrate women in statistics.
+* Our member numbers continue to grow, and we have now over 900 members.
 
-* In exciting news, a collaborative bid for Australia (Sydney) to host the [International Congress on Mathematical Education in 2024](https://www.mathunion.org/icmi/conferences/icme/bidding-icme-15) has been successful.
-
-* The Biostatistics Collaboration of Australia won our inaugural [president's award for leadership in statistics](https://www.statsoc.org.au/News-and-media-releases/7215657).
-
-*	In welcome news, "Statistician" has been [added to the government's skilled migration list](https://www.sbs.com.au/yourlanguage/punjabi/en/article/2019/03/11/your-chance-migrate-australia-new-skilled-occupation-lists-announced)
+* Our Environmental Section posted a message in support of the school strike. This prompted a query about the society's official position. We did not have an official position, but will discuss this and consider releasing a statement soon or just before next year's strike.
 
 *Cluster representative to choose two nominated topics of interest to the cluster to report on*
 
 *Cluster-nominated topic #1*
 
-*	**Engagement with the region - Asia Pacific**. We are considering the idea of having our 2022 conference in Darwin, and this would be a great opportunity to engage with Statistical agencies in the Asian region.
+*	**Engagement with the region - Asia Pacific**. We have decided to have our 2022 conference in Darwin. The aim is to have a "Joint Southern Statistical Meeting" (JSSM) to rival the JSM in the northern hemisphere. We aim to invite societies from the region and have already had positive responses from Indonesia, The Philippines and New Zealand. We are open to suggestions from colleagues about what societies we should invite.
 
 *Cluster-nominated topic #2*
 
@@ -30,7 +26,5 @@ TOPIC FOR REPORTING THIS QUARTER: *Early Career activities*
 
 *Equity, Diversity, and Inclusion*
 
-* [Please outline up to three points regarding your cluster’s efforts to improve equity, diversity and inclusion].
-
-* We are continuing to progress the updates to our rules, regulations and code of conduct to make the society a more welcoming and safe place for all. Changes to the code of conduct and regulations will hopefully be approved by the next Central Council meeting.
+* We will launch the inaugural Betty Allen travel award in November. This is a female-only award of $3000 to be used for travel. The award is in partnership with Data-61.
 
