@@ -10,7 +10,7 @@ TOPIC FOR REPORTING THIS QUARTER (February 2020): *Engagement with the Asia-Paci
 
 *Key issues for noting only (will be taken as read)*
 
-* Last year we created two vice-president roles, one for membership and one for communications. This has been a very succesful initiative because both VPs have been energetic in their roles and made multiple positive changes.
+* Last year we created two vice-president roles, one for membership and one for communications. This has been a very successful initiative because both VPs have been energetic in their roles and made multiple positive changes.
 
 * We've had a long debate about using a Professional Conference Organiser (PCO) or not for our next conference. We've had some issues with PCOs in the past in terms of high costs and sometimes slow response times. On the plus side they do have a lot of experience and it could be a big risk to "go it alone", although this would allow us to keep registration costs down.
 
@@ -20,7 +20,7 @@ TOPIC FOR REPORTING THIS QUARTER (February 2020): *Engagement with the Asia-Paci
 
 *Cluster-nominated topic #1*: *Equity, Diversity, and Inclusion*
 
-* We launched the inaugural Betty Allen travel award in November. This is for female early career researchers and is worth $3000. The award is in partnership with CSIRO/Data-61. We had 14 applications, many of which were outstanding, and we awarded two prizes.
+* We launched the inaugural Betty Allan travel award in November. This is for female early career researchers and is worth $3000. The award is in partnership with CSIRO/Data-61. We had 14 applications, many of which were outstanding, and we awarded two prizes.
 
 *Cluster-nominated topic #2*: Membership
 
