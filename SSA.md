@@ -22,6 +22,8 @@ TOPIC FOR REPORTING THIS QUARTER (February 2020): *Engagement with the Asia-Paci
 
 * We launched the inaugural Betty Allan travel award in November. This is for female early career researchers and is worth $3000. The award is in partnership with CSIRO/Data-61. We had 14 applications, many of which were outstanding, and we awarded two prizes.
 
+* We will offer up to four bursaries of $500 each to help members who are caring for children or relatives attend our 2020 conference. This is to acknowledge the extra costs of childcare, travel, etc. 
+
 *Cluster-nominated topic #2*: Membership
 
 *	We had four members at Science Meets Parliament and they all reported thoroughly enjoying the two days.
