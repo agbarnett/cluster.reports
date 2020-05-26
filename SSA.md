@@ -10,9 +10,9 @@ TOPIC FOR REPORTING THIS QUARTER (June 2020): *Indigenous engagement*
 
 *Key issues for noting only (will be taken as read)*
 
-* 
+* _None_
 
-**Indigenous engagement**. Nothing to report. 
+**Indigenous engagement**: Nothing to report. 
 
 *Cluster representative to choose two nominated topics of interest to the cluster to report on*
 
