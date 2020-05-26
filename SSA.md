@@ -2,33 +2,26 @@
 
 **Representative**:	Adrian Barnett
 
-TOPIC FOR REPORTING THIS QUARTER (February 2020): *Engagement with the Asia-Pacific*
+TOPIC FOR REPORTING THIS QUARTER (June 2020): *Indigenous engagement*
 
 *Key issues for Board discussion (covering any topic)*
 
-* _None_
+* Some of our members have expressed deep concern about the lack of statistical input to the current scientific discussions on COVID-19 at a federal government level. STA have been helpful in passing on our concerns. 
 
 *Key issues for noting only (will be taken as read)*
 
-* Last year we created two vice-president roles, one for membership and one for communications. This has been a very successful initiative because both VPs have been energetic in their roles and made multiple positive changes.
+* 
 
-* We've had a long debate about using a Professional Conference Organiser (PCO) or not for our next conference. We've had some issues with PCOs in the past in terms of high costs and sometimes slow response times. On the plus side they do have a lot of experience and it could be a big risk to "go it alone", although this would allow us to keep registration costs down.
-
-* **Engagement with the region - Asia Pacific**. Our 2022 conference will be in Darwin. The aim is to have a "Joint Southern Statistical Meeting" (JSSM) to rival the JSM in the northern hemisphere. We aim to invite societies from the Asia Pacific region and have already had positive responses from Indonesia, The Philippines and New Zealand. 
+* **Indigenous engagement**. Nothing to report. 
 
 *Cluster representative to choose two nominated topics of interest to the cluster to report on*
 
-*Cluster-nominated topic #1*: *Equity, Diversity, and Inclusion*
+*Cluster-nominated topic #1*: *COVID crisis*
 
-* We launched the inaugural Betty Allan travel award in November. This is for female early career researchers and is worth $3000. The award is in partnership with CSIRO/Data-61. We had 14 applications, many of which were outstanding, and we awarded two prizes.
+* It has been great to see lots of online meetings with some large audiences from our branches across the country.
 
-* We will offer up to four bursaries of $500 each to help members who are caring for children or relatives attend our 2020 conference. This is to acknowledge the extra costs of childcare, travel, etc. 
+* The Australian Bureau of Statistics (ABS) should be commended for their rapid response to COVID-19 and the great amount of new data collections and reports they have created, see https://www.abs.gov.au/COVID-19. 
 
 *Cluster-nominated topic #2*: Membership
 
-*	We had four members at Science Meets Parliament and they all reported thoroughly enjoying the two days.
-
-* We are considering offering a life-time membership option for members aged 50 and above. 
-
-
-
+*	We introduced a “perpetual membership” option so that members over 50 years old could pay a one-off fee and be a life-time member. 
