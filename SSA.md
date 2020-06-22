@@ -6,11 +6,13 @@ TOPIC FOR REPORTING THIS QUARTER (June 2020): *Indigenous engagement*
 
 *Key issues for Board discussion (covering any topic)*
 
-* Some of our members have expressed deep concern about the lack of statistical input to the current scientific discussions on COVID-19 at a federal government level. STA have been helpful in passing on our concerns. The pandemic has highlighted problems with how important research and expertise gets the attention of government.
+* _None_
 
 *Key issues for noting only (will be taken as read)*
 
-* _None_
+* Some of our members have expressed deep concern about the lack of statistical input to the current scientific discussions on COVID-19 at a federal government level. STA have been helpful in passing on our concerns. The pandemic has highlighted problems with how important research and expertise gets the attention of government.
+
+* We made a statement in support of the Black Lives Matter campaign and received lots of positive feedback, but some negative feedback too.
 
 **Indigenous engagement**: Nothing to report. 
 
@@ -18,7 +20,7 @@ TOPIC FOR REPORTING THIS QUARTER (June 2020): *Indigenous engagement*
 
 *Cluster-nominated topic #1*: *COVID crisis*
 
-* It has been great to see lots of online meetings with some large audiences from our branches across the country.
+* It has been great to see lots of online meetings replacing our usual face-to-face branch meetings. Lots of members who cannot normally get to face-to-face meetings have been able to join in online, which has been an unexpected benefit and something we hope to retain.
 
 * Like many societies we had to postpone our 2020 national conference. We are aiming to have a range of online events during the time the conference would have been on.
 
