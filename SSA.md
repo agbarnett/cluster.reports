@@ -2,7 +2,7 @@
 
 **Representative**:	Adrian Barnett
 
-TOPIC FOR REPORTING THIS QUARTER (June 2020): *Indigenous engagement*
+TOPIC FOR REPORTING THIS QUARTER (? 2020): *?*
 
 *Key issues for Board discussion (covering any topic)*
 
@@ -10,9 +10,7 @@ TOPIC FOR REPORTING THIS QUARTER (June 2020): *Indigenous engagement*
 
 *Key issues for noting only (will be taken as read)*
 
-* Some of our members have expressed deep concern about the lack of statistical input to the current scientific discussions on COVID-19 at a federal government level. STA have been helpful in passing on our concerns. The pandemic has highlighted problems with how important research and expertise gets the attention of government.
-
-* We made a statement in support of the Black Lives Matter campaign and received lots of positive feedback, but some negative feedback too.
+* 
 
 **Indigenous engagement**: Nothing to report. 
 
@@ -20,12 +18,10 @@ TOPIC FOR REPORTING THIS QUARTER (June 2020): *Indigenous engagement*
 
 *Cluster-nominated topic #1*: *COVID crisis*
 
-* It has been great to see lots of online meetings replacing our usual face-to-face branch meetings. Lots of members who cannot normally get to face-to-face meetings have been able to join in online, which has been an unexpected benefit and something we hope to retain.
+* 
 
-* Like many societies we had to postpone our 2020 national conference. We are aiming to have a range of online events during the time the conference would have been on.
+*Cluster-nominated topic #1*: *Membership*
 
-* The Australian Bureau of Statistics (ABS) should be commended for their rapid response to COVID-19 and the great amount of new data collections and reports they have created, see https://www.abs.gov.au/COVID-19. 
+* We renamed our "Young Statistician" section to "Early Career and Student Section" after feedback from members that they felt excluded as they were not "Young", even though our aim was that "Young" included people who were young in their statistical career.
 
-*Cluster-nominated topic #2*: Membership
-
-*	We introduced a “perpetual membership” option so that members over 50 years old could pay a one-off fee and be a life-time member. 
+* We ran an online media training workshop for members with _Science in Public_ that was very successful with over 100 attendees.
