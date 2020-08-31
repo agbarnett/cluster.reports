@@ -26,4 +26,4 @@ TOPIC FOR REPORTING THIS QUARTER: *STEM policy priorities*
 
 Equity, Diversity, and Inclusion
 
-* Nothing to report.
+* We will soon be putting together a Diversity, Equity and Inclusion committee.
