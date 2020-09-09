@@ -10,7 +10,7 @@ TOPIC FOR REPORTING THIS QUARTER: *STEM policy priorities*
 
 *Key issues for noting only (will be taken as read)*
 
-* _None_
+* We've again experienced phishing scams via email with scammers sending emails asking members to urgently send money to cover society events. 
 
 *Cluster representative to choose two nominated topics of interest to the cluster to report on*
 
