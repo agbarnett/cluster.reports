@@ -10,13 +10,13 @@ TOPIC FOR REPORTING THIS QUARTER: *STEM policy priorities*
 
 *Key issues for noting only (will be taken as read)*
 
-* We've again experienced phishing scams via email with scammers sending emails asking members to urgently send money to cover society events. 
+* Not for the first time, we've experienced phishing scams via email with scammers sending emails asking members to urgently send money to cover society events. Our emails are freely available to all, which makes us a target.  
 
 *Cluster representative to choose two nominated topics of interest to the cluster to report on*
 
 *Cluster-nominated topic #1*: *Early career members*
 
-* We created a new "Fellowship funding award" scheme to conditionally award $3000 to up to eight early career researchers who are applying for ARC or NHMRC fellowships. This is a competitive scheme with a short application form. 
+* We created a new "Fellowship funding award" scheme to conditionally award $3000 to up to eight members who are early career researchers applying for ARC or NHMRC fellowships. This is a competitive scheme with a short application form. 
 
 * We renamed our "Young Statistician" section to "Early Career and Student Section" after feedback from members that they felt excluded as they were not "Young", even though our aim was that "Young" included people who were young in their statistical career.
 
